@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d306db4c.chunk.css",
-    "main.js": "/static/js/main.ce4eacf3.chunk.js",
-    "main.js.map": "/static/js/main.ce4eacf3.chunk.js.map",
+    "main.js": "/static/js/main.8774dbd0.chunk.js",
+    "main.js.map": "/static/js/main.8774dbd0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.550d44a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.550d44a0.js.map",
     "static/js/2.18fb27de.chunk.js": "/static/js/2.18fb27de.chunk.js",
@@ -11,17 +11,12 @@
     "static/js/3.71fd7985.chunk.js.map": "/static/js/3.71fd7985.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.d306db4c.chunk.css.map": "/static/css/main.d306db4c.chunk.css.map",
-    "static/js/2.18fb27de.chunk.js.LICENSE.txt": "/static/js/2.18fb27de.chunk.js.LICENSE.txt",
-    "static/media/estimado.eeb8854f.png": "/static/media/estimado.eeb8854f.png",
-    "static/media/productbacklog.20b397b2.png": "/static/media/productbacklog.20b397b2.png",
-    "static/media/recursos.c159d970.png": "/static/media/recursos.c159d970.png",
-    "static/media/sprintbacklog.9458b43d.png": "/static/media/sprintbacklog.9458b43d.png",
-    "static/media/tasking.b18db9a2.png": "/static/media/tasking.b18db9a2.png"
+    "static/js/2.18fb27de.chunk.js.LICENSE.txt": "/static/js/2.18fb27de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.550d44a0.js",
     "static/js/2.18fb27de.chunk.js",
     "static/css/main.d306db4c.chunk.css",
-    "static/js/main.ce4eacf3.chunk.js"
+    "static/js/main.8774dbd0.chunk.js"
   ]
 }
